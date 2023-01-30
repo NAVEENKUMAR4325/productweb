@@ -680,13 +680,18 @@ margin-right:auto;
 ```
 
 ## Output:
-![OUTPUT](./out11.png)
-![OUTPUT](./out12.png)
-![OUTPUT](./out13.png)
-![OUTPUT](./out14.png)
+![out11](https://user-images.githubusercontent.com/119479566/215505038-4abb20ef-8808-48f5-85bd-0ce20a2931d8.png)
+
+![out12](https://user-images.githubusercontent.com/119479566/215505107-84f32a2e-4aad-4a9a-aef5-7e53334423d9.png)
+
+![out13](https://user-images.githubusercontent.com/119479566/215505185-fe1ebcb8-8487-4ff9-b094-575aa45fedc9.png)
+
+![out14](https://user-images.githubusercontent.com/119479566/215505251-2773a36c-1e5d-4d11-a2d0-2cde8208f003.png)
+
 
 ## HTML Validator
-![OUTPUT](./valid15.png)
+![valid15](https://user-images.githubusercontent.com/119479566/215505326-5d4683f1-5a82-4054-a015-0523f792345d.png)
+
 
 
 ## Result:
